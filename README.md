@@ -1,0 +1,2 @@
+# meteoricTestApp
+Trying Meteor + Ionic
